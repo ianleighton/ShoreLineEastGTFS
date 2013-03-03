@@ -1,10 +1,10 @@
-stop_id,stop_name,stop_lat,stop_lon,zone_id
-NLD,New London,41.354329,-72.093082,4
-OSB,Old Saybrook,41.30058,-72.376814,3
-WBK,Westbrook,41.288951,-72.448386,3
-CLN,Clinton,41.279548,-72.52831,3
-MAD,Madison,41.283694,-72.59948,2
-GFD,Guilford,41.275599,-72.673584,2
-BFD,Branford,41.274627,-72.817204,2
-NHS,New Haven—State St.,41.304979,-72.921747,1
-NHU,New Haven Union Station,41.296501,-72.92829,1
+stop_id,stop_name,stop_lat,stop_lon,zone_id,wheelchair_boarding
+NLD,New London,41.354329,-72.093082,4,1
+OSB,Old Saybrook,41.30058,-72.376814,3,1
+WBK,Westbrook,41.288951,-72.448386,3,2
+CLN,Clinton,41.279548,-72.52831,3,1
+MAD,Madison,41.283694,-72.59948,2,1
+GFD,Guilford,41.275599,-72.673584,2,1
+BFD,Branford,41.274627,-72.817204,2,1
+NHS,New Haven—State St.,41.304979,-72.921747,1,1
+NHU,New Haven Union Station,41.296501,-72.92829,1,1
