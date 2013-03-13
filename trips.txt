@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id
 SLE,WKD,SLE_1621WKD,New Haven Union Station,1621,0
 SLE,WKD,SLE_1627WKD,New Haven Union Station,1627,0
@@ -49,3 +50,57 @@ SLE,WEH,SLE_3034WEH,Old Saybrook,3034,1
 SLE,WEH,SLE_3042WEH,Old Saybrook,3042,1
 SLE,WEH,SLE_3650WEH,Old Saybrook,3650,1
 SLE,WEH,SLE_3658WEH,Old Saybrook,3658,1
+=======
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id
+SLE,WKD,SLE_1621WKD,New Haven Union Station,1621,0,sle_shape
+SLE,WKD,SLE_1627WKD,New Haven Union Station,1627,0,sle_shape
+SLE,WKD,SLE_1633WKD,New Haven Union Station,1633,0,sle_shape
+AT,WKD,AT_2151WKD,,2151,0,sle_shape
+SLE,WKD,SLE_1637WKD,New Haven Union Station,1637,0,sle_shape
+SLE,WKD,SLE_1641WKD,New Haven Union Station,1641,0,sle_shape
+SLE,WKD,SLE_1645WKD,New Haven Union Station,1645,0,sle_shape
+AT,WKD,AT_95WKD,,95,0,sle_shape
+SLE,WKD,SLE_1651WKD,New Haven Union Station,1651,0,sle_shape
+AT,WKD,AT_93-83WKD,,93-83,0,sle_shape
+SLE,WKD,SLE_1671WKD,New Haven Union Station,1671,0,sle_shape
+SLE,WKD,SLE_1681WKD,New Haven Union Station,1681,0,sle_shape
+SLE,WKD,SLE_1687WKD,New Haven Union Station,1687,0,sle_shape
+SLE,WKD,SLE_1691WKD,New Haven Union Station,1691,0,sle_shape
+SLE,WKD,SLE_1695WKD,New Haven Union Station,1695,0,sle_shape
+SLE,WKD,SLE_1697WKD,New Haven Union Station,1697,0,sle_shape
+SLE,WKD,SLE_1600WKD,New London,1600,1,sle_shape
+SLE,WKD,SLE_1606WKD,Old Saybrook,1606,1,sle_shape
+AT,WKD,AT_190WKD,,190,1,sle_shape
+SLE,WKD,SLE_1610WKD,New Haven State St.,1610,1,sle_shape
+SLE,WKD,SLE_1622WKD,Old Saybrook,1622,1,sle_shape
+SLE,WKD,SLE_1632WKD,Old Saybrook,1632,1,sle_shape
+AT,WKD,AT_174WKD,,174,1,sle_shape
+SLE,WKD,SLE_1636WKD,New London,1636,1,sle_shape
+SLE,WKD,SLE_1638WKD,Old Saybrook,1638,1,sle_shape
+AT,WKD,AT_176WKD,,176,1,sle_shape
+SLE,WKD,SLE_1640WKD,New London,1640,1,sle_shape
+SLE,WKD,SLE_1644WKD,Old Saybrook,1644,1,sle_shape
+SLE,WKD,SLE_1646WKD,New London,1646,1,sle_shape
+SLE,WKD,SLE_1656WKD,Old Saybrook,1656,1,sle_shape
+AT,WKD,AT_94WKD,,94,1,sle_shape
+SLE,WKD,SLE_1668WKD,Old Saybrook,1668,1,sle_shape
+SLE,WKD,SLE_1674WKD,New London,1674,1,sle_shape
+AT,WKD,AT_178WKD,,178,1,sle_shape
+SLE,WKD,SLE_1682WKD,Old Saybrook,1682,1,sle_shape
+SLE,WEH,SLE_3613WEH,New Haven Union Station,3613,0,sle_shape
+SLE,WEH,SLE_3621WEH,New Haven Union Station,3621,0,sle_shape
+SLE,WEH,SLE_3629WEH,New Haven Union Station,3629,0,sle_shape
+SLE,WEH,SLE_3637WEH,New Haven Union Station,3637,0,sle_shape
+SLE,WEH,SLE_3645WEH,New Haven Union Station,3645,0,sle_shape
+SLE,WEH,SLE_3653WEH,New Haven Union Station,3653,0,sle_shape
+SLE,WEH,SLE_3661WEH,New Haven Union Station,3661,0,sle_shape
+SLE,WEH,SLE_3673WEH,New Haven Union Station,3673,0,sle_shape
+SLE,WEH,SLE_3604WEH,Old Saybrook,3604,1,sle_shape
+SLE,WEH,SLE_3610WEH,Old Saybrook,3610,1,sle_shape
+SLE,WEH,SLE_3618WEH,Old Saybrook,3618,1,sle_shape
+SLE,WEH,SLE_3626WEH,Old Saybrook,3626,1,sle_shape
+SLE,WEH,SLE_3034WEH,Old Saybrook,3034,1,sle_shape
+SLE,WEH,SLE_3042WEH,Old Saybrook,3042,1,sle_shape
+SLE,WEH,SLE_3650WEH,Old Saybrook,3650,1,sle_shape
+SLE,WEH,SLE_3658WEH,Old Saybrook,3658,1,sle_shape
+>>>>>>> d6838f9... added shapes
