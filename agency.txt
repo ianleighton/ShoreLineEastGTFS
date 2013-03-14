@@ -1,3 +1,3 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_fare_url,agency_phone
-SLE,Shore Line East,http://http://www.shorelineeast.com/,America/New_York,http://www.shorelineeast.com/fares_passes/fares.php,(800) ALL-RIDE
-AT,Amtrak,http://www.amtrak.com/,America/New_York,,
+agency_id,agency_micro_name,agency_short_name,agency_name,agency_color,agency_url,agency_timezone,agency_fare_url,agency_phone
+sle,SLE,Shore Line East,Shore Line East,ef0000,http://http://www.shorelineeast.com/,America/New_York,http://www.shorelineeast.com/fares_passes/fares.php,(800) ALL-RIDE
+at,AT,Amtrak,Amtrak,02318d,http://www.amtrak.com/,America/New_York,,
