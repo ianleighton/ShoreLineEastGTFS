@@ -1,3 +1,3 @@
 route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-SLE,SLE,SLE,Shore Line East,2,ef0000,ffffff
-AT,AT,ATK,Amtrak,2,02318d,ffffff
+SLE,sle,SLE,Shore Line East,2,ef0000,ffffff
+AT,at,ATK,Amtrak,2,02318d,ffffff
